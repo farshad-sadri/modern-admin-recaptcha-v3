@@ -83,4 +83,3 @@ Farshad is also the founder of [Dash Squid](https://dashsquid.com), a design stu
 * GitHub: [@farshad-sadri](https://github.com/farshad-sadri)
 * LinkedIn: [linkedin.com/in/farshadsadri](https://www.linkedin.com/in/farshadsadri)
 
-````
