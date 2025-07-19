@@ -26,7 +26,7 @@ A modern YOURLS plugin that adds **Google reCAPTCHA v3** protection to the admin
    cd yourls/user/plugins
    git clone https://github.com/farshad-sadri/modern-admin-recaptcha-v3.git
 
-Or [download as ZIP](https://github.com/farshad-sadri/modern-admin-recaptcha-v3/archive/refs/heads/main.zip) and extract it to:
+Or [download as ZIP](https://github.com/farshad-sadri/modern-admin-recaptcha-v3/archive/refs/heads/master.zip) and extract it to:
 
 ```
 /user/plugins/modern-admin-recaptcha-v3
